@@ -1,1 +1,78 @@
+/* Restore Cayman's navigation bar */
+nav {
+  background-color: #2a7ae2;  /* Cayman's blue top bar */
+  padding: 10px 20px;
+}
 
+nav a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+nav a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+
+/* Adjust overall width like Cayman */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Keep Slate's dark background */
+body {
+  background-color: #252525;
+  color: #f8f8f8;
+}
+
+/* Ensure links match Cayman's style */
+a {
+  color: #2a7ae2;
+}
+
+a:hover {
+  color: #1a5bbd;
+}
+/* Restore Cayman's navigation bar */
+nav {
+  background-color: #2a7ae2;  /* Cayman's blue top bar */
+  padding: 10px 20px;
+}
+
+nav a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+nav a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+
+/* Adjust overall width like Cayman */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Keep Slate's dark background */
+body {
+  background-color: #252525;
+  color: #f8f8f8;
+}
+
+/* Ensure links match Cayman's style */
+a {
+  color: #2a7ae2;
+} 
+
+a:hover {
+  color: #1a5bbd;
+}
