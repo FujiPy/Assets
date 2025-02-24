@@ -1,0 +1,20 @@
+/* Change text color for the Cayman theme */
+body {
+  color: #ffffff; /* Change this to your preferred text color */
+}
+
+h1, h2, h3 {
+  color: #00aaff; /* Custom header color */
+}
+
+p {
+  color: #dddddd; /* Lighter text for paragraphs */
+}
+
+a {
+  color: #ffcc00; /* Change link color */
+}
+
+a:hover {
+  color: #ff6600; /* Hover effect for links */
+}
